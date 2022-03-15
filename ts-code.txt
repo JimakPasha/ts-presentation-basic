@@ -1,4 +1,4 @@
-https://www.typescriptlang.org/play?#code/PTAEF5K6dv4VAUCCjakIgggGEEOwgg+EECYQQaRBBWEFECEQQDhBB+EGLXWhTEdbYSU6QBsBTAF1ABDCKADkAZ34AnAJYA7AOZiA3Fx4DQAI1EBGAAz61XPoIDGomQFdexzqdAATIf16j5vAO6gAIi94AFACUdswM7BFsYeyggAgggLwg8fgU2IBiIFSA8iCUtESg4ejRkUWM6g7yVgC2AFyg5RVavNJ6hqEOUtI17QqKomIAUkJmANaqpZqyEgCCjhUKNVoA9gt8QvKW0jahqMU7HNsRoIBIIMSE+IAsINk0ufkl+7v3yCaadbrNRmOC7a-g4gPDo09BBNprN5N9QNZbOo7g97mFAFgg+EAzCBnbCgeLkQCCIBR8FQKKBAAIg2ExgHEQPEnbAUQAyIOi0dhCDjADwglKoJNImMAXCBUQCcIKASKcLtQroQAPwAKkKsLhXFQuiCoERKLRjPo+EAjCCAKRAMoQqIBuECooBopAJpEZpESgGEQQByIAAadH4dHkGgE3HxKjpbD63BUF2ET0G0iARRANOZlgtpMYzGGmj9dGoo9xw71pLxHKME0mfpCtmAAExBEOgCQLCq8ABylQaMdAADMhNwJFCkDWkwEHLJREZQB2ADygADMKm7AGph-KAN5IPJ5Yuliv1RqiWRqAC+0JYUrhqEVqMdoGxuPxRNJ5L91NpoHpTJZbM5PL5J3OlyI4slm+KQA
+https://www.typescriptlang.org/play?ssl=134&ssc=94&pln=1&pc=1#code/PTAEF5K6dv4VAUCCjakIgggGEEOwgg+EECYQQaRBBWEFECEQQDhBB+EGLXWhTEdbYSU6QBsBTAF1ABDCKADkAZ34AnAJYA7AOZiA3Fx4DQAI1EBGAAz61XPoIDGomQFdexzqdAATIf16j5vAO6gAIi94AFACUdswM7BFsYeyggAgggLwg8fgU2IBiIFSA8iCUtESg4ejRkUWM6g7yVgC2AFyg5RVavNJ6hqEOUtI17QqKomIAUkJmANaqpZqyEgCCjhUKNVoA9gt8QvKW0jahqMU7HNsRoIBIIMSE+IAsINk0ufkl+7v3yCaadbrNRmOC7a-g4gPDo09BBNprN5N9QNZbOo7g97mFAFgg+EAzCBnbCgeLkQCCIBR8FQKKBAAIg2ExgHEQPEnbAUQAyIOi0dhCDjADwglKoJNImMAXCBUQCcIKASKcLtQroQAPwAKkKsLhXFQuiCoERKLRjPo+EAjCCAKRAMoQqIBuECooBopAJpEZpESgGEQQByIAAadH4dHkGgE3HxKjpbD63BUF2ET0G0iARRANOZlgtpMYzGGmj9dGoo9xw71pLxHKME0mfpCtmAAExBEOgCQLCq8ABylQaMdAADMhNwJFCkDWkwEHLJREZQB2ADygADMKm7AGph-KAN5IPJ5Yuliv1RqiWRqAC+0JYUrhMIOgBwQYmYqgkG6sSWb4rqKPyKSgDPSCSiADaYhTabtYi03BsYjfngAFrJXDEABdeNowkAA6AAHKwJF-AJ324QYRhCJBbwg6DYICSEUM4VBCFADlsA5fBGVATFdQtElsHICiSUACRByDOdV6V1DJqVAbBEmSNIqCtEVOEva95CEUsJE6GRugfIDHxA9dQDOQgLTNAl4mIXlmUxA9CFQhYr0ERCpDLETeHvH4Hynacn0AEhBAyY31gJtCy8ifQA8EAJXUiGwBynNAJ9AAwQP0kkIbzZJlMANK0sjCTwVTGQNIVsDigTdKEytGimeRHAAZQkpRTN8gx9DfABxaQFkceQFm-cQAFkFAkEZZLqKsMuy3LFHQmC4LEAAhFMpDEFDmvSyZMpyuQ8qgrqAgADnzHNjzPKJt3QBV8AJChSEANhBQCwqxIL4eUIlPJbjp0vSnAmoZREnacb2jGp3zKzx5G-HyzCEaRFmE1xHBqSFHLuiQrEUT6agAFiKpA13O68ExEMynoWF7qoB0BIZA0BUGddVdVNNF8KZO0SRxUAVTJ-AttNQ1jVIGgLRSdirgJDImI5HTEIfXRpJ+BCkNULHwsp6nyMo7BuSSGmTXwZ1SDOUh9XYjFKHwYnScAURBkgVqg5KoTFnRYjJqZxtU8cZC0oquRl8EASRAqStCF9r4WHQ0Q3QagfLolDtRZll4VY7WG6Qed8pGUbtNGMdAt2uZDvn-iHVBNqNAkaQoBnQDVC15fxfA6KoNVCLtChwI5cC+RxF1eUAWRAzfNfEcRJSWmN1Kn4kz4h2N9lZ5CAA
 
 // ================================================
 // ================= Базовые типы =================
@@ -83,5 +83,54 @@ for (let i = 0; i < 3; i++) {
 
 
 // ================================================
-// Когда не стоит расчитывать на автоматический вывод типов?*
+// ==================== Массивы ===================
 // ================================================
+
+
+
+const colors = ['red', 'blue', 'white'];
+colors.push('black');
+colors.push(true);
+
+
+// в каком случае лучше добавлять аннотацию?
+
+const names: string[] = [];
+
+
+
+// двумерный массив
+const lastNames = [
+    ['Фёдоров'],
+    ['Орлова'],
+    ['Иванов'],
+];
+
+
+
+// массив с разными типами
+
+const numbersAndStrings = [100, 'Grodno', 'Minsk'];
+numbersAndStrings.push('Brest');
+numbersAndStrings.push(82);
+
+
+
+// ================================================
+// ================ Кортеж (tuple) ================
+// ================================================
+
+const drink = {
+    color: 'brown',
+    carbonated: true,
+    sugar: 40,
+}
+
+const cola = ['brown', true, 40]; // проблема в том, что мы можем перепутать порядок
+cola[1] = 'black'; // можем случайно переопределить не то, что хотели
+
+
+
+// исправляем проблему с помощью tuple
+const cola1: [string, boolean, number] = ['brown', true, 40];
+cola1[1] = 'black'; // теперь тут будет ошибка, т.к. второй элемент точно должен быть boolean
