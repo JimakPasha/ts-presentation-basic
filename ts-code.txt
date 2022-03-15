@@ -1,4 +1,34 @@
-https://www.typescriptlang.org/play?ssl=134&ssc=94&pln=1&pc=1#code/PTAEF5K6dv4VAUCCjakIgggGEEOwgg+EECYQQaRBBWEFECEQQDhBB+EGLXWhTEdbYSU6QBsBTAF1ABDCKADkAZ34AnAJYA7AOZiA3Fx4DQAI1EBGAAz61XPoIDGomQFdexzqdAATIf16j5vAO6gAIi94AFACUdswM7BFsYeyggAgggLwg8fgU2IBiIFSA8iCUtESg4ejRkUWM6g7yVgC2AFyg5RVavNJ6hqEOUtI17QqKomIAUkJmANaqpZqyEgCCjhUKNVoA9gt8QvKW0jahqMU7HNsRoIBIIMSE+IAsINk0ufkl+7v3yCaadbrNRmOC7a-g4gPDo09BBNprN5N9QNZbOo7g97mFAFgg+EAzCBnbCgeLkQCCIBR8FQKKBAAIg2ExgHEQPEnbAUQAyIOi0dhCDjADwglKoJNImMAXCBUQCcIKASKcLtQroQAPwAKkKsLhXFQuiCoERKLRjPo+EAjCCAKRAMoQqIBuECooBopAJpEZpESgGEQQByIAAadH4dHkGgE3HxKjpbD63BUF2ET0G0iARRANOZlgtpMYzGGmj9dGoo9xw71pLxHKME0mfpCtmAAExBEOgCQLCq8ABylQaMdAADMhNwJFCkDWkwEHLJREZQB2ADygADMKm7AGph-KAN5IPJ5Yuliv1RqiWRqAC+0JYUrhMIOgBwQYmYqgkG6sSWb4rqKPyKSgDPSCSiADaYhTabtYi03BsYjfngAFrJXDEABdeNowkAA6AAHKwJF-AJ324QYRhCJBbwg6DYICSEUM4VBCFADlsA5fBGVATFdQtElsHICiSUACRByDOdV6V1DJqVAbBEmSNIqCtEVOEva95CEUsJE6GRugfIDHxA9dQDOQgLTNAl4mIXlmUxA9CFQhYr0ERCpDLETeHvH4Hynacn0AEhBAyY31gJtCy8ifQA8EAJXUiGwBynNAJ9AAwQP0kkIbzZJlMANK0sjCTwVTGQNIVsDigTdKEytGimeRHAAZQkpRTN8gx9DfABxaQFkceQFm-cQAFkFAkEZZLqKsMuy3LFHQmC4LEAAhFMpDEFDmvSyZMpyuQ8qgrqAgADnzHNjzPKJt3QBV8AJChSEANhBQCwqxIL4eUIlPJbjp0vSnAmoZREnacb2jGp3zKzx5G-HyzCEaRFmE1xHBqSFHLuiQrEUT6agAFiKpA13O68ExEMynoWF7qoB0BIZA0BUGddVdVNNF8KZO0SRxUAVTJ-AttNQ1jVIGgLRSdirgJDImI5HTEIfXRpJ+BCkNULHwsp6nyMo7BuSSGmTXwZ1SDOUh9XYjFKHwYnScAURBkgVqg5KoTFnRYjJqZxtU8cZC0oquRl8EASRAqStCF9r4WHQ0Q3QagfLolDtRZll4VY7WG6Qed8pGUbtNGMdAt2uZDvn-iHVBNqNAkaQoBnQDVC15fxfA6KoNVCLtChwI5cC+RxF1eUAWRAzfNfEcRJSWmN1Kn4kz4h2N9lZ5CAA
+https://www.typescriptlang.org/play?#code/PTAEF5K6dv4VAUCCi6kEgggmEEKwggWEF0F4QQDhBc104UxLa6ElGkBjAewDsBnVgGwFMAdD1YBzABQByABIBLADSgAKgE8ADnwDKzAE4zVAFwCEEgJQBuJkgBmAV3bN9MjqCutWYk6ADeSUH9BsXLyCwuLSfDzCxuZIAL6WqPRJydQU0EoaoID8IIB8IIA8IDmAzCCADCC4gEIgoETk+DlZgMIggIIggFwgxWWAMiCgOYASICSAjCBNJGnQqcmjtEy29o7OACasNgBG-GIAHgBcoOw2ALYLfNqePv6gK77+2nz6NtrsJ6AAVKAATBbxSHOLywCs5qCoAIwABmoHyWfEknH02lMZj+YH22lY2iYiTGaPgIySoEAiCDFQDsIDlsIBpEHIZRIWSJQ0omPRtOQTH4+lAAEMIKAJJDdOwRBILAzLqAFmygYC+YxGQE2VCbHwxUgJTNmfo+Gz2HwAO6gAAiSvBMRRNDpRpplFAgAQQIhEHJlYqAMRASIB5EFAZNy2D89BNRrRlglW22Gz9e20wsBop9As5G05Mm5bIkAClmcwANa88NMmScACCM22MY2Czc-GZt3AoGlsoShq96M9pswROwOXwzvJhPdSTrNc7-KZfv+IbDvdAnIHZYTSdTcolmZzefYY-L2hlctR3bGqUAWCBFfDFSrkBplHIkCqAARBig1AOIgJ8brQ6RD3xWwR7yrRIl9wzRIgE4QUDEpsti6hIAPz3F267jAaoD-J426FLuoB5JSOS9IAUiAOtgJCANwggxZLgp64HkxBEHUgByIAoVr7tkp7HqQ9rFDheIkDR2AMYMuCAIog8oCmwwjaHyvFIsKFiCcG44XDMaaiVKy6VlBTwmNxTLcNsfAAHI7EGbJWMyPCcHJrjBmIM5sqKoAyKAAA8oAAMywjIADUDmHGcfggCp6mafsbIyK8VZUhB4xrskoCADggF4NCQxIBdSwWBXQliBJCAS8EinBsgA2hIEkSAoEhLDKuXsuqAAWMjKhIAC6ImpdonACKoNicCVkhLJOMLUKJ9WNc1YgVvqqRui0TT5KADRYXUl6lKAE2Xl01QoU+WEOu0oDFJa1p2iQpHAYwSV9syqmcFGUIxiIGWVZl1X+fg2B1ERp5EESv6vg0kXYCwHDJTwzKQmph18OlZYZa5oBZYAJCAcTULFVXIoNZYAeCCnlhhLFLD8MSIAGCCsVa2Do9dUGve9Y2gOeeJPXkgwusUlN7V9fZeXVWbsDMGindyQNgyKeUAOKIjM7CsEVEgALIxpwqbXYG+zZizbNciI3VNS1EgAEIXJCHXS0zcvs4rDXK2IAAcCmrtW8UJXF6CgNup5lLggBsIKAfU2Ko-CeJ2VsW4gdNcEyMxcsmbJHP4okbPliLquwuWg8wzLaIW7C6jMGwVnDxycDYIjxxsAAsgJw28+0pT9mUR6wUdFWnoD59VcLUShWGEXubovgol5HohlIFA7hHZPhuD1Daq25KeDo1E0n0-Rl-yXeObUpry9c93342TcU36UXhBG1ARhA4atVTOjk7ed4AoiDWrgOH+SQDRZOe2DLX39+N4RdQk7kBSAJIgbSkeWrv8E+n7EuzJ-gbAytGbkChCzBBLAobWc8wbl0rgoautcLCoF4qAmeiD8o-UXrCVA9tt4dDKHUCovQ6iEAqN0PoLQFBlAEE0AQf4jw0V-IAWRAm5ESIBUI8l5KI1Cwr3IgoBehElWjA4s7AkBAA
+
+// ================================================
+// ================== Введение ====================
+// ================================================
+
+
+
+console.log('Hi, TypeScript!');
+
+
+
+function foo() {
+    console.log('Hello!');
+}
+
+
+
+// ================================================
+// ======= TS помогает не допускать ошибки ========
+// ================================================
+
+
+function double(x: number) {
+    x
+    return x * 2;
+}
+
+double(5); // 10
+//double('str'); // error
+
 
 // ================================================
 // ================= Базовые типы =================
@@ -77,7 +107,7 @@ color = true;
 let someNumber = false;
 
 for (let i = 0; i < 3; i++) {
-    someNumber = i;
+    //someNumber = i;
 }
 
 
@@ -90,7 +120,7 @@ for (let i = 0; i < 3; i++) {
 
 const colors = ['red', 'blue', 'white'];
 colors.push('black');
-colors.push(true);
+//colors.push(true);
 
 
 // в каком случае лучше добавлять аннотацию?
@@ -133,4 +163,4 @@ cola[1] = 'black'; // можем случайно переопределить �
 
 // исправляем проблему с помощью tuple
 const cola1: [string, boolean, number] = ['brown', true, 40];
-cola1[1] = 'black'; // теперь тут будет ошибка, т.к. второй элемент точно должен быть boolean
+// cola1[1] = 'black'; // теперь тут будет ошибка, т.к. второй элемент точно должен быть boolean
