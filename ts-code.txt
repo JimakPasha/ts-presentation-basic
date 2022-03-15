@@ -1,1 +1,87 @@
+https://www.typescriptlang.org/play?#code/PTAEF5K6dv4VAUCCjakIgggGEEOwgg+EECYQQaRBBWEFECEQQDhBB+EGLXWhTEdbYSU6QBsBTAF1ABDCKADkAZ34AnAJYA7AOZiA3Fx4DQAI1EBGAAz61XPoIDGomQFdexzqdAATIf16j5vAO6gAIi94AFACUdswM7BFsYeyggAgggLwg8fgU2IBiIFSA8iCUtESg4ejRkUWM6g7yVgC2AFyg5RVavNJ6hqEOUtI17QqKomIAUkJmANaqpZqyEgCCjhUKNVoA9gt8QvKW0jahqMU7HNsRoIBIIMSE+IAsINk0ufkl+7v3yCaadbrNRmOC7a-g4gPDo09BBNprN5N9QNZbOo7g97mFAFgg+EAzCBnbCgeLkQCCIBR8FQKKBAAIg2ExgHEQPEnbAUQAyIOi0dhCDjADwglKoJNImMAXCBUQCcIKASKcLtQroQAPwAKkKsLhXFQuiCoERKLRjPo+EAjCCAKRAMoQqIBuECooBopAJpEZpESgGEQQByIAAadH4dHkGgE3HxKjpbD63BUF2ET0G0iARRANOZlgtpMYzGGmj9dGoo9xw71pLxHKME0mfpCtmAAExBEOgCQLCq8ABylQaMdAADMhNwJFCkDWkwEHLJREZQB2ADygADMKm7AGph-KAN5IPJ5Yuliv1RqiWRqAC+0JYUrhqEVqMdoGxuPxRNJ5L91NpoHpTJZbM5PL5J3OlyI4slm+KQA
 
+// ================================================
+// ================= Базовые типы =================
+// ================================================
+
+
+
+let a = 'string';
+
+
+
+let b = 100;
+
+
+
+let c = true;
+
+
+
+let date = new Date();
+
+
+
+// ================================================
+// =============== Аннотация типов  ===============
+// ================================================
+
+
+
+let num: number = 100;
+
+
+
+let str: string = 'Jack';
+
+
+
+let isAdmin: boolean = true;
+
+
+
+// ================================================
+// ================= Вывод типов  =================
+// ================================================
+
+
+
+let num1 = 100;
+
+
+
+let str1 = 'Jack';
+
+
+
+let isAdmin1 = true;
+
+
+
+// ================================================
+// Когда не стоит расчитывать на автоматический вывод типов?*
+// ================================================
+
+
+
+// 1) Когда мы объявили переменную, но не проинициализировали её
+let color;
+
+color = 1;
+color = 'red';
+color = true;
+
+
+
+// 2)
+let someNumber = false;
+
+for (let i = 0; i < 3; i++) {
+    someNumber = i;
+}
+
+
+
+// ================================================
+// Когда не стоит расчитывать на автоматический вывод типов?*
+// ================================================
